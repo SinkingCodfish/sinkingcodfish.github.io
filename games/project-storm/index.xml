@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project S.T.O.R.M.</title>
+    
+    
+    
+    <link>https://sinkingcodfish.github.io/games/project-storm/</link>
+    <description>Recent content on Project S.T.O.R.M.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://sinkingcodfish.github.io/games/project-storm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

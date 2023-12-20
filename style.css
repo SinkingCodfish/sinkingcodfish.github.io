@@ -1,0 +1,107 @@
+/* themes/your-theme/static/css/custom.css */
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.content {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html{
+    height: 100%;
+}
+body{
+    background: url(/images/ocean.gif) no-repeat center top;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+    overflow: overlay;
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-container img {
+    margin: 0 60px;
+}
+.image-container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-container2 img {
+    width: 30%;
+    margin: 0 5px;
+}
+.image-container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-container3 img {
+    width: 30%;
+    margin: 0 0px;
+}
+.image-container4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-container4 img {
+    width: 30%;
+    margin: 0 50px;
+}
+.image-container5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-container5 img {
+    width: 30%;
+    margin: 0 20px;
+}
+.image-container6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-container6 img {
+    width: 48%;
+    margin: 0 20px;
+}
+.image-container200 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-container200 img {
+    width: 200%;
+    margin: 0 50px;
+}
+::-webkit-scrollbar {
+    width: 15px; /* Set the width of the scrollbar */
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;    
+    background-color: #DA9425; /* Color of the thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #256BDA; /* Color of the thumb on hover */
+}
+
+::-webkit-scrollbar-track {
+    background-color: rgba(7, 63, 108, 1.0);
+}
+a:hover {
+    color: rgba(7, 63, 108, 1.0); /* Change the color on hover to the desired highlight color */
+}

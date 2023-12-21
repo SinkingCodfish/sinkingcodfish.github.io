@@ -5,12 +5,12 @@
     
     
     
-    <link>https://sinkingcodfish.github.io/</link>
+    <link>/games/project-storm/</link>
     <description>Recent content on Project S.T.O.R.M.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://sinkingcodfish.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/games/project-storm/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

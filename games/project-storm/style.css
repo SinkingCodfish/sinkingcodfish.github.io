@@ -18,7 +18,7 @@ html{
 
 }
 body{
-    background: url(/images/background_page.webp) no-repeat center top;
+    background: url(images/background_page.avif) no-repeat center top;
     background-size: cover;
     height: 100vh;
     background-attachment: fixed;

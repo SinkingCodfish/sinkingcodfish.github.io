@@ -37,7 +37,9 @@ body .background{
     align-items: center;
 }
 .image-container img {
-    margin: 0 60px;
+    margin: 5px 20px;
+    width: 40%;
+    min-width: 250px;
 }
 .image-container2 {
     display: flex;
@@ -63,8 +65,8 @@ body .background{
     align-items: center;
 }
 .image-container4 img {
-    width: 30%;
-    margin: 0 50px;
+    width: 43%;
+    margin: 0 5%;
 }
 .image-container5 {
     display: flex;

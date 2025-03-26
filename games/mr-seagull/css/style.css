@@ -211,12 +211,15 @@ a:hover, button:hover {
   max-height: 105vh;
   filter: brightness(50%);
 }
+
 .header .carousel-caption {
   top: 80%;
   transform: translateY(-80%);
   bottom: 0;
   top: 383px;
 }
+
+
 .header .frst-hrd {
   font-family: "Gotham-Narrow-Light";
   background-color: rgba(255, 255, 255, 0.29);
